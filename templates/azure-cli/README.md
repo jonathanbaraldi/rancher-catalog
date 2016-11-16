@@ -27,3 +27,5 @@
 	https://azure.github.io/projects/clis/
 	https://github.com/azure/azure-xplat-cli
 	https://docs.microsoft.com/pt-br/azure/virtual-machines-command-line-tools
+
+	

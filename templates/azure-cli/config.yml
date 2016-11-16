@@ -1,6 +1,6 @@
 name: Azure-CLI
 description: |
-  AZURE-CLI.
-version: 1
-category: CONTENT MANAGER
+  O Azure CLI é um conjunto de comandos de plataforma cruzada de software livre para trabalhar com recursos do Azure. Este artigo descreve as diferentes maneiras de fornecer as credenciais de conta da Azure para conectar o Azure CLI à sua assinatura da Azure..
+version: 1.0
+category: CLOUD AUTOMATION
 maintainer: Jonathan Baraldi <jonathanbaraldi@gmail.com>
