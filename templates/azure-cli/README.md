@@ -1,29 +1,28 @@
 # Azure-CLI
-	O Azure CLI é um conjunto de comandos de plataforma cruzada de software livre para trabalhar com recursos da Azure. 
+O Azure CLI é um conjunto de comandos de plataforma cruzada de software livre para trabalhar com recursos da Azure. 
 
 ## Executar comandos da CLI da Azure
-	Quando você acessar o container, execute o comando azure na interface do usuário de linha de comando no terminal. Por exemplo, para executar o comando de ajuda, digite o seguinte:
+Quando você acessar o container, execute o comando azure na interface do usuário de linha de comando no terminal. Por exemplo, para executar o comando de ajuda, digite o seguinte:
  
-	# azure help
+	azure help
 
 ## Azure Login
-	Para logar, digite o seguinte comando:
+Para logar, digite o seguinte comando:
  
-	# azure login
+	azure login
 
 ## Configurando o modo asm
-	Use o comando a seguir para habilitar os comandos de modo de Gerenciamento de Serviços de CLI do Azure em modo Clássico (ASM).
+Use o comando a seguir para habilitar os comandos de modo de Gerenciamento de Serviços de CLI do Azure em modo Clássico (ASM).
 	
-	# azure config mode asm
+	azure config mode asm
 
 ## Configurando o modo arm
-	Use o comando a seguir para habilitar os comandos de modo de Gerenciamento de Serviços de CLI do Azure em modo Resource Manager (ARM).
+Use o comando a seguir para habilitar os comandos de modo de Gerenciamento de Serviços de CLI do Azure em modo Resource Manager (ARM).
 	
-	# azure config mode arm
+	azure config mode arm
 
 ## Docs
-
-	https://azure.github.io/projects/clis/
-	https://github.com/azure/azure-xplat-cli
-	https://docs.microsoft.com/pt-br/azure/virtual-machines-command-line-tools
+https://azure.github.io/projects/clis/
+https://github.com/azure/azure-xplat-cli
+https://docs.microsoft.com/pt-br/azure/virtual-machines-command-line-tools
 
