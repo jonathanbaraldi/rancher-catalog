@@ -1,6 +1,5 @@
 # Azure-CLI
-	O Azure CLI é um conjunto de comandos de plataforma cruzada de software livre para trabalhar com recursos do Azure. Este artigo descreve as diferentes maneiras de fornecer as credenciais de conta da Azure para conectar o Azure CLI à sua assinatura da Azure.
-
+	O Azure CLI é um conjunto de comandos de plataforma cruzada de software livre para trabalhar com recursos da Azure. 
 
 ## Executar comandos da CLI da Azure
 	Quando você acessar o container, execute o comando azure na interface do usuário de linha de comando no terminal. Por exemplo, para executar o comando de ajuda, digite o seguinte:
@@ -28,4 +27,3 @@
 	https://github.com/azure/azure-xplat-cli
 	https://docs.microsoft.com/pt-br/azure/virtual-machines-command-line-tools
 
-	
