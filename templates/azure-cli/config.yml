@@ -1,0 +1,6 @@
+name: Azure-CLI
+description: |
+  AZURE-CLI.
+version: 1
+category: CONTENT MANAGER
+maintainer: Jonathan Baraldi <jonathanbaraldi@gmail.com>
