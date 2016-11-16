@@ -1,4 +1,0 @@
-.azure-cli:
-  name: "Registry"
-  version: 1.0
-  description: "O Azure CLI é um conjunto de comandos de plataforma cruzada de software livre para trabalhar com recursos da Azure."
