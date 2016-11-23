@@ -1,11 +1,12 @@
 # Jon Catalog 
-Este catálogo foi feito para prover templates criados por mim para a comunidade.
+This catalog was made for me to serve the community
 
 # RDS - Remote DevOps Station
+Now you have your own DevOps station, running inside container and with all the tools that a SysAdmin need to manage infrastructure and also to develop new applications.
 
-
-# Azure-CLI
-
+Many new features are comming in the next release, like:
+- Docker 
+- Docker Compose
 
 # Licença
 
