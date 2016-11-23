@@ -1,4 +1,4 @@
-.rds:
+.catalog:
   name: "RDS"
   version: "v1"
   description: "Remote DevOps Station"
