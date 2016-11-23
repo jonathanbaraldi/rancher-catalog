@@ -6,9 +6,8 @@
     - variable: "USER"
       label: "User"
       description: "User to be used in the web terminal"
-      #default: 5000
       required: true
-      type: "int"
+      type: "string"
     - variable: "PASS"
       label: "Password"
       description: "Password to be used in the web terminal"
