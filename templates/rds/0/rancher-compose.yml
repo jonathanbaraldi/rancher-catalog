@@ -1,0 +1,17 @@
+.rds:
+  name: "RDS"
+  version: "v1"
+  description: "Remote DevOps Station"
+  questions: 
+    - variable: "USER"
+      label: "User"
+      description: "User to be used in the web terminal"
+      #default: 5000
+      required: true
+      type: "int"
+    - variable: "PASS"
+      label: "Password"
+      description: "Password to be used in the web terminal"
+      required: true
+      default: password
+      type: "password"
