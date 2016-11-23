@@ -1,0 +1,6 @@
+name: RDS - Remote DevOps Station
+description: |
+  This container runs using Ubuntu:14.04, and have the entire devops environment inside. This contianer can be used via URL:8080, and all the functions that you have on your terminal, now is available in the Web. 
+version: "1.0"
+category: CLOUD AUTOMATION
+maintainer: Jonathan Baraldi <jonathanbaraldi@gmail.com>

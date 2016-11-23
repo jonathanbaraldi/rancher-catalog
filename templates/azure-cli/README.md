@@ -8,7 +8,7 @@ Quando você acessar o container, execute o comando azure na interface do usuár
 
 ## Azure Login
 Para logar, digite o seguinte comando:
- 
+
 	azure login
 
 ## Configurando o modo asm
@@ -23,6 +23,8 @@ Use o comando a seguir para habilitar os comandos de modo de Gerenciamento de Se
 
 ## Docs
 https://azure.github.io/projects/clis/
+
 https://github.com/azure/azure-xplat-cli
+
 https://docs.microsoft.com/pt-br/azure/virtual-machines-command-line-tools
 

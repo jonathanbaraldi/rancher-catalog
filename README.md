@@ -1,6 +1,11 @@
 # Jon Catalog 
-
 Este catálogo foi feito para prover templates criados por mim para a comunidade.
+
+# RDS - Remote DevOps Station
+
+
+# Azure-CLI
+
 
 # Licença
 

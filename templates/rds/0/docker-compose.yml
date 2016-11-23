@@ -1,0 +1,9 @@
+rds:
+    image: jonathanbaraldi/rds:2
+    restart: always
+    ports:
+        - 8080
+    environment:
+        - USER=${USER} 
+        - PASS=${PASS}
+
