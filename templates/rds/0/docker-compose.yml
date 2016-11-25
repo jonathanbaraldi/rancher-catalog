@@ -13,7 +13,7 @@ rds:
         - 6969
 
 dind:
-    image: docker:dind
+    image: jonathanbaraldi/rds_dind:1
     restart: always
     privileged: yes
     volumes:
