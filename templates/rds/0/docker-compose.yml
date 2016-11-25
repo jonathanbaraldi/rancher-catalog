@@ -1,9 +1,23 @@
 rds:
-    image: jonathanbaraldi/rds:2
+    image: jonathanbaraldi/rds:3
     restart: always
-    ports:
-        - 8080
     environment:
         - USER=${USER} 
         - PASS=${PASS}
+    links:
+        - dind
+    volumes:
+        - dev:/home/dev
+        - data:/data
+    ports:
+        - 6969
 
+dind:
+    image: docker:dind
+    restart: always
+    privileged: yes
+    volumes:
+        - dev:/home/dev
+        - data:/data
+    ports:
+        - 8888
