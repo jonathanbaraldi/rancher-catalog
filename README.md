@@ -27,9 +27,9 @@ The container that runs Docker DIND, is the one who you're going to run your doc
 
 ## Screenshots
 
-![](http://imgur.com/a/CQpCj)
+![alt tag](https://raw.githubusercontent.com/jonathanbaraldi/rancher-catalog/master/rds0.png)
 
-![](https://imgur.com/a/2MHmw)
+![](https://i.imgur.com/YahFe1k.png)
 
 # License
 
