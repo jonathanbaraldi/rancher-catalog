@@ -1,5 +1,0 @@
-azure-cli:
-    image: jonathanbaraldi/azure-cli:1
-    restart: always
-    ports:
-        - 8888
