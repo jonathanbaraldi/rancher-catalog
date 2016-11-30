@@ -1,7 +1,12 @@
 # Rancher Catalog 
 This catalog was made for me to serve the community.
 
+
+
 # RDS - Remote DevOps Station
+
+![alt tag](https://raw.githubusercontent.com/jonathanbaraldi/rancher-catalog/master/rds-logo.png "RDS Remote DevOps Station")
+
 Now you have your own DevOps station, running inside container and with all the tools that a SysAdmin need to manage infrastructure and also to develop new applications.
 
 This is a stack that is compose of 2 containers: RDS and Docker DIND.
@@ -27,9 +32,9 @@ The container that runs Docker DIND, is the one who you're going to run your doc
 
 ## Screenshots
 
-![alt tag](https://raw.githubusercontent.com/jonathanbaraldi/rancher-catalog/master/rds0.png)
+![alt tag](https://raw.githubusercontent.com/jonathanbaraldi/rancher-catalog/master/rds0.png "RDS main screen")
 
-![](https://i.imgur.com/YahFe1k.png)
+![alt tag](https://raw.githubusercontent.com/jonathanbaraldi/rancher-catalog/master/rds1.png "RDS web terminals")
 
 # License
 
