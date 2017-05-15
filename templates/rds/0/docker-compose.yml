@@ -10,7 +10,7 @@ rds:
         - dev:/home/dev
         - data:/data
     ports:
-        - 6969
+        - ${PORT}:443
 
 dind:
     image: jonathanbaraldi/rds_dind:1
@@ -21,3 +21,6 @@ dind:
         - data:/data
     ports:
         - 8888
+
+
+
