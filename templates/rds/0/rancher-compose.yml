@@ -14,9 +14,9 @@
       required: true
       default: password
       type: "password"
-    - variable: "PORT"
-      label: "Port"
-      description: "Port to be exposed on the HOST"
-      required: true
-      default: port
-      type: "string"
+    #- variable: "PORT"
+      #label: "Port"
+      #description: "Port to be exposed on the HOST"
+      #required: true
+      #default: port
+      #type: "string"

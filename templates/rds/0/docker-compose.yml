@@ -9,8 +9,8 @@ rds:
     volumes:
         - dev:/home/dev
         - data:/data
-    ports:
-        - ${PORT}:443
+    #ports:
+        #- ${PORT}:443
 
 dind:
     image: jonathanbaraldi/rds_dind:1
@@ -19,8 +19,8 @@ dind:
     volumes:
         - dev:/home/dev
         - data:/data
-    ports:
-        - 8888
+    #ports:
+        #- 8888
 
 
 
